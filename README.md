@@ -1,4 +1,4 @@
-# StatMate — Probability & Statistics Analyzer
+# StatMate: Probability & Statistics Analyzer
 
 ## Overview
 StatMate is a Probability and Statistics learning application that uses real hourly station-entry data from the Bengaluru Namma Metro dataset. The goal is to provide a clean, academic interface to teach statistical concepts by applying them to real data.
