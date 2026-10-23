@@ -19,4 +19,4 @@ StatMate is a Probability and Statistics learning application that uses real hou
 - **Form-Based Interactivity**: Inputs do not recalculate until submitted.
 
 ## Datasett
-The dataset `station-hourly.csv` tracks hourly passenger entries at Namma Metro stations. It does not measure train crowding.
+the dataset `station-hourly.csv` tracks hourly passenger entries at Namma Metro stations. It does not measure train crowding.
